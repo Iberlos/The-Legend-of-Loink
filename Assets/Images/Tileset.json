@@ -1,0 +1,3964 @@
+{
+   "frames" : [
+      {
+         "filename" : "DungeonWall-Bottom",
+         "frame" : {
+            "h" : 128,
+            "w" : 768,
+            "x" : 8,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "DungeonWall-Top",
+         "frame" : {
+            "h" : 128,
+            "w" : 768,
+            "x" : 8,
+            "y" : 144
+         }
+      },
+      {
+         "filename" : "Ganon",
+         "frame" : {
+            "h" : 289,
+            "w" : 266,
+            "x" : 8,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "DungeonWall-Left",
+         "frame" : {
+            "h" : 704,
+            "w" : 128,
+            "x" : 282,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "DungeonWall-Right",
+         "frame" : {
+            "h" : 704,
+            "w" : 128,
+            "x" : 418,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorOpen-Top",
+         "frame" : {
+            "h" : 64,
+            "w" : 128,
+            "x" : 8,
+            "y" : 577
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorTop-Bottom",
+         "frame" : {
+            "h" : 64,
+            "w" : 128,
+            "x" : 144,
+            "y" : 577
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorTop-Top",
+         "frame" : {
+            "h" : 64,
+            "w" : 128,
+            "x" : 554,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorClosed-Bottom",
+         "frame" : {
+            "h" : 64,
+            "w" : 128,
+            "x" : 8,
+            "y" : 649
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorClosed-Top",
+         "frame" : {
+            "h" : 64,
+            "w" : 128,
+            "x" : 554,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorLocked-Bottom",
+         "frame" : {
+            "h" : 64,
+            "w" : 128,
+            "x" : 144,
+            "y" : 649
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorLocked-Top",
+         "frame" : {
+            "h" : 64,
+            "w" : 128,
+            "x" : 554,
+            "y" : 424
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorOpen-Bottom",
+         "frame" : {
+            "h" : 64,
+            "w" : 128,
+            "x" : 8,
+            "y" : 721
+         }
+      },
+      {
+         "filename" : "LinkAttack-Blue-Left",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 144,
+            "y" : 721
+         }
+      },
+      {
+         "filename" : "LinkAttack-Blue-Right",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 554,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "LinkAttack-Red-Left",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 690,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "LinkAttack-Red-Right",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 690,
+            "y" : 348
+         }
+      },
+      {
+         "filename" : "LinkAttack-Right",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 784,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Blue-Left",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 784,
+            "y" : 76
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Blue-Right",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 554,
+            "y" : 564
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Left",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 8,
+            "y" : 793
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Red-Left",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 784,
+            "y" : 144
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Red-Right",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 144,
+            "y" : 789
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Right",
+         "frame" : {
+            "h" : 60,
+            "w" : 108,
+            "x" : 690,
+            "y" : 416
+         }
+      },
+      {
+         "filename" : "LinkAttack-Left",
+         "frame" : {
+            "h" : 60,
+            "w" : 105,
+            "x" : 784,
+            "y" : 212
+         }
+      },
+      {
+         "filename" : "Dungeon-BombTop-Right",
+         "frame" : {
+            "h" : 64,
+            "w" : 96,
+            "x" : 670,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "Dungeon-BombTop-Left",
+         "frame" : {
+            "h" : 64,
+            "w" : 96,
+            "x" : 554,
+            "y" : 632
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorOpen-Left",
+         "frame" : {
+            "h" : 128,
+            "w" : 64,
+            "x" : 806,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorOpen-Right",
+         "frame" : {
+            "h" : 128,
+            "w" : 64,
+            "x" : 8,
+            "y" : 861
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorLocked-Left",
+         "frame" : {
+            "h" : 128,
+            "w" : 64,
+            "x" : 80,
+            "y" : 861
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorLocked-Right",
+         "frame" : {
+            "h" : 128,
+            "w" : 64,
+            "x" : 152,
+            "y" : 861
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorTop-Left",
+         "frame" : {
+            "h" : 128,
+            "w" : 64,
+            "x" : 670,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorTop-Right",
+         "frame" : {
+            "h" : 128,
+            "w" : 64,
+            "x" : 554,
+            "y" : 704
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorClosed-Left",
+         "frame" : {
+            "h" : 128,
+            "w" : 64,
+            "x" : 900,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "Dungeon-DoorClosed-Right",
+         "frame" : {
+            "h" : 128,
+            "w" : 64,
+            "x" : 806,
+            "y" : 416
+         }
+      },
+      {
+         "filename" : "LinkAttack-Blue-Up",
+         "frame" : {
+            "h" : 112,
+            "w" : 64,
+            "x" : 900,
+            "y" : 144
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Blue-Up",
+         "frame" : {
+            "h" : 112,
+            "w" : 64,
+            "x" : 878,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Red-Up",
+         "frame" : {
+            "h" : 112,
+            "w" : 64,
+            "x" : 742,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "LinkAttack-Red-Up",
+         "frame" : {
+            "h" : 112,
+            "w" : 64,
+            "x" : 626,
+            "y" : 704
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Up",
+         "frame" : {
+            "h" : 112,
+            "w" : 64,
+            "x" : 878,
+            "y" : 400
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Red-Down",
+         "frame" : {
+            "h" : 108,
+            "w" : 64,
+            "x" : 972,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "LinkAttack-Blue-Down",
+         "frame" : {
+            "h" : 108,
+            "w" : 64,
+            "x" : 972,
+            "y" : 124
+         }
+      },
+      {
+         "filename" : "LinkAttack-Red-Down",
+         "frame" : {
+            "h" : 108,
+            "w" : 64,
+            "x" : 950,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "LinkAttack-Down",
+         "frame" : {
+            "h" : 108,
+            "w" : 64,
+            "x" : 698,
+            "y" : 704
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Down",
+         "frame" : {
+            "h" : 108,
+            "w" : 64,
+            "x" : 814,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "LinkAttackWand-Blue-Down",
+         "frame" : {
+            "h" : 108,
+            "w" : 64,
+            "x" : 8,
+            "y" : 997
+         }
+      },
+      {
+         "filename" : "Dungeon-BombTop-Bottom",
+         "frame" : {
+            "h" : 96,
+            "w" : 64,
+            "x" : 80,
+            "y" : 997
+         }
+      },
+      {
+         "filename" : "Dungeon-BombTop-Top",
+         "frame" : {
+            "h" : 96,
+            "w" : 64,
+            "x" : 554,
+            "y" : 840
+         }
+      },
+      {
+         "filename" : "ArmosUp-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 152,
+            "y" : 997
+         }
+      },
+      {
+         "filename" : "Dungeon-Dirt",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 224,
+            "y" : 997
+         }
+      },
+      {
+         "filename" : "BladeTrap",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 950,
+            "y" : 396
+         }
+      },
+      {
+         "filename" : "Boulder-Green",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 824
+         }
+      },
+      {
+         "filename" : "Boulder-Grey",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 296,
+            "y" : 997
+         }
+      },
+      {
+         "filename" : "Boulder-Red",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 704
+         }
+      },
+      {
+         "filename" : "Bridge-Green",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1044,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "Bridge-Grey",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1044,
+            "y" : 80
+         }
+      },
+      {
+         "filename" : "Bridge-Red",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "Cave",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1044,
+            "y" : 152
+         }
+      },
+      {
+         "filename" : "DarknutLeft-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 950,
+            "y" : 468
+         }
+      },
+      {
+         "filename" : "DarknutLeft-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1022,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "DarknutRight-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 368,
+            "y" : 997
+         }
+      },
+      {
+         "filename" : "DarknutRight-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 698,
+            "y" : 820
+         }
+      },
+      {
+         "filename" : "Desert-Green-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 152,
+            "y" : 1069
+         }
+      },
+      {
+         "filename" : "Desert-Green-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1022,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "Desert-Green-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 440,
+            "y" : 997
+         }
+      },
+      {
+         "filename" : "Desert-Green-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 224,
+            "y" : 1069
+         }
+      },
+      {
+         "filename" : "Dungeon-Floor",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 640
+         }
+      },
+      {
+         "filename" : "Dungeon-Green-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 896
+         }
+      },
+      {
+         "filename" : "Dungeon-Green-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 776
+         }
+      },
+      {
+         "filename" : "Dungeon-Green-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 554,
+            "y" : 944
+         }
+      },
+      {
+         "filename" : "Dungeon-Green-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 80,
+            "y" : 1101
+         }
+      },
+      {
+         "filename" : "Dungeon-Green-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1022,
+            "y" : 424
+         }
+      },
+      {
+         "filename" : "Dungeon-Green-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 296,
+            "y" : 1069
+         }
+      },
+      {
+         "filename" : "Dungeon-Grey-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 8,
+            "y" : 1113
+         }
+      },
+      {
+         "filename" : "Dungeon-Grey-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "Dungeon-Grey-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1116,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "Dungeon-Grey-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1116,
+            "y" : 80
+         }
+      },
+      {
+         "filename" : "Dungeon-Grey-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1116,
+            "y" : 152
+         }
+      },
+      {
+         "filename" : "Dungeon-Grey-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1094,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "Dungeon-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 368,
+            "y" : 1069
+         }
+      },
+      {
+         "filename" : "Dungeon-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 698,
+            "y" : 892
+         }
+      },
+      {
+         "filename" : "Dungeon-Red-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1022,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "Dungeon-Red-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 712
+         }
+      },
+      {
+         "filename" : "Dungeon-Red-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 848
+         }
+      },
+      {
+         "filename" : "Dungeon-Red-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1094,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "Dungeon-Stairs",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 152,
+            "y" : 1141
+         }
+      },
+      {
+         "filename" : "Dungeon-Statue1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 640
+         }
+      },
+      {
+         "filename" : "Dungeon-Statue2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 968
+         }
+      },
+      {
+         "filename" : "Dungeon-Wall",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 440,
+            "y" : 1069
+         }
+      },
+      {
+         "filename" : "Dungeon-WallHole-Bottom",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 554,
+            "y" : 1016
+         }
+      },
+      {
+         "filename" : "Dungeon-WallHole-Left",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 224,
+            "y" : 1141
+         }
+      },
+      {
+         "filename" : "Dungeon-WallHole-Right",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1094,
+            "y" : 424
+         }
+      },
+      {
+         "filename" : "Dungeon-WallHole-Top",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 80,
+            "y" : 1173
+         }
+      },
+      {
+         "filename" : "Dungeon-Water",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "Desert-Green-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 296,
+            "y" : 1141
+         }
+      },
+      {
+         "filename" : "Desert-Green-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 784
+         }
+      },
+      {
+         "filename" : "Desert-Green-7",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 8,
+            "y" : 1185
+         }
+      },
+      {
+         "filename" : "Desert-Green-8",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1188,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "EvilTree-Green-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 698,
+            "y" : 964
+         }
+      },
+      {
+         "filename" : "EvilTree-Green-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1188,
+            "y" : 80
+         }
+      },
+      {
+         "filename" : "EvilTree-Green-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 712
+         }
+      },
+      {
+         "filename" : "EvilTree-Green-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1188,
+            "y" : 152
+         }
+      },
+      {
+         "filename" : "EvilTree-Green-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 368,
+            "y" : 1141
+         }
+      },
+      {
+         "filename" : "EvilTree-Grey-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1166,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "EvilTree-Grey-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 920
+         }
+      },
+      {
+         "filename" : "EvilTree-Grey-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1094,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "EvilTree-Grey-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 640
+         }
+      },
+      {
+         "filename" : "EvilTree-Grey-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 1040
+         }
+      },
+      {
+         "filename" : "EvilTree-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1166,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "EvilTree-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 554,
+            "y" : 1088
+         }
+      },
+      {
+         "filename" : "EvilTree-Red-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 152,
+            "y" : 1213
+         }
+      },
+      {
+         "filename" : "EvilTree-Red-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 440,
+            "y" : 1141
+         }
+      },
+      {
+         "filename" : "EvilTree-Red-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 856
+         }
+      },
+      {
+         "filename" : "Fire-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 224,
+            "y" : 1213
+         }
+      },
+      {
+         "filename" : "Fire-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 784
+         }
+      },
+      {
+         "filename" : "Desert-Green-9",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "GhiniDownLeft",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1166,
+            "y" : 424
+         }
+      },
+      {
+         "filename" : "GhiniDownRight",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 80,
+            "y" : 1245
+         }
+      },
+      {
+         "filename" : "GhiniUpLeft",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 296,
+            "y" : 1213
+         }
+      },
+      {
+         "filename" : "GhiniUpRight",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 698,
+            "y" : 1036
+         }
+      },
+      {
+         "filename" : "Gibdo-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 712
+         }
+      },
+      {
+         "filename" : "Gibdo-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 992
+         }
+      },
+      {
+         "filename" : "Grave",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 8,
+            "y" : 1257
+         }
+      },
+      {
+         "filename" : "Ground-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1260,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "Ground-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1260,
+            "y" : 80
+         }
+      },
+      {
+         "filename" : "Ladder-Green",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1166,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "Ladder-Grey",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 368,
+            "y" : 1213
+         }
+      },
+      {
+         "filename" : "Ladder-Red",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1260,
+            "y" : 152
+         }
+      },
+      {
+         "filename" : "Leever-Blue-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1238,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "Leever-Red-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 640
+         }
+      },
+      {
+         "filename" : "LikeLike-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 1112
+         }
+      },
+      {
+         "filename" : "Link-Spawn",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 928
+         }
+      },
+      {
+         "filename" : "Desert-Grey-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 856
+         }
+      },
+      {
+         "filename" : "Desert-Grey-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 554,
+            "y" : 1160
+         }
+      },
+      {
+         "filename" : "Desert-Grey-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1238,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "Desert-Grey-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 440,
+            "y" : 1213
+         }
+      },
+      {
+         "filename" : "Desert-Grey-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 152,
+            "y" : 1285
+         }
+      },
+      {
+         "filename" : "Desert-Grey-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 784
+         }
+      },
+      {
+         "filename" : "Desert-Grey-7",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1174,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "Desert-Grey-8",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 224,
+            "y" : 1285
+         }
+      },
+      {
+         "filename" : "Desert-Grey-9",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1238,
+            "y" : 424
+         }
+      },
+      {
+         "filename" : "Desert-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 698,
+            "y" : 1108
+         }
+      },
+      {
+         "filename" : "Desert-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 712
+         }
+      },
+      {
+         "filename" : "Desert-Red-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 1064
+         }
+      },
+      {
+         "filename" : "Desert-Red-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 296,
+            "y" : 1285
+         }
+      },
+      {
+         "filename" : "Desert-Red-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 80,
+            "y" : 1317
+         }
+      },
+      {
+         "filename" : "Desert-Red-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 8,
+            "y" : 1329
+         }
+      },
+      {
+         "filename" : "Desert-Red-7",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1332,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "Desert-Red-8",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1238,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "Desert-Red-9",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 928
+         }
+      },
+      {
+         "filename" : "Door",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1332,
+            "y" : 80
+         }
+      },
+      {
+         "filename" : "Dungeon-Black",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 1000
+         }
+      },
+      {
+         "filename" : "ArmosDown-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 368,
+            "y" : 1285
+         }
+      },
+      {
+         "filename" : "ArmosDown-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1174,
+            "y" : 640
+         }
+      },
+      {
+         "filename" : "ArmosUp-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 856
+         }
+      },
+      {
+         "filename" : "LinkLeft-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 1184
+         }
+      },
+      {
+         "filename" : "LinkLeft-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1310,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "LinkRight-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1332,
+            "y" : 152
+         }
+      },
+      {
+         "filename" : "LinkRight-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 554,
+            "y" : 1232
+         }
+      },
+      {
+         "filename" : "MoblinDown-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 784
+         }
+      },
+      {
+         "filename" : "MoblinDown-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1310,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "MoblinDown-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 440,
+            "y" : 1285
+         }
+      },
+      {
+         "filename" : "MoblinDown-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 152,
+            "y" : 1357
+         }
+      },
+      {
+         "filename" : "MoblinLeft-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1246,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "MoblinLeft-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 698,
+            "y" : 1180
+         }
+      },
+      {
+         "filename" : "MoblinRight-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 1136
+         }
+      },
+      {
+         "filename" : "MoblinRight-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1174,
+            "y" : 712
+         }
+      },
+      {
+         "filename" : "OctorokDown-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 224,
+            "y" : 1357
+         }
+      },
+      {
+         "filename" : "OctorokDown-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1310,
+            "y" : 424
+         }
+      },
+      {
+         "filename" : "OctorokDown-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 1000
+         }
+      },
+      {
+         "filename" : "OctorokDown-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 928
+         }
+      },
+      {
+         "filename" : "OctorokLeft-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 296,
+            "y" : 1357
+         }
+      },
+      {
+         "filename" : "OctorokLeft-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 1072
+         }
+      },
+      {
+         "filename" : "OctorokLeft-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 80,
+            "y" : 1389
+         }
+      },
+      {
+         "filename" : "OctorokLeft-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 856
+         }
+      },
+      {
+         "filename" : "OctorokRight-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1246,
+            "y" : 640
+         }
+      },
+      {
+         "filename" : "OctorokRight-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1310,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "OctorokRight-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 8,
+            "y" : 1401
+         }
+      },
+      {
+         "filename" : "OctorokRight-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 1256
+         }
+      },
+      {
+         "filename" : "OctorokUp-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1404,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "OctorokUp-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 368,
+            "y" : 1357
+         }
+      },
+      {
+         "filename" : "OctorokUp-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1404,
+            "y" : 80
+         }
+      },
+      {
+         "filename" : "OctorokUp-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1382,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "OldLady",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1174,
+            "y" : 784
+         }
+      },
+      {
+         "filename" : "OldMan",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1404,
+            "y" : 152
+         }
+      },
+      {
+         "filename" : "Peahat-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 554,
+            "y" : 1304
+         }
+      },
+      {
+         "filename" : "PolsVoice-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1382,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "Rock-Green-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 440,
+            "y" : 1357
+         }
+      },
+      {
+         "filename" : "Rock-Green-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 1208
+         }
+      },
+      {
+         "filename" : "Rock-Green-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 698,
+            "y" : 1252
+         }
+      },
+      {
+         "filename" : "Rock-Green-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1246,
+            "y" : 712
+         }
+      },
+      {
+         "filename" : "Rock-Green-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1318,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "Rock-Green-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 1000
+         }
+      },
+      {
+         "filename" : "Rock-Grey-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 152,
+            "y" : 1429
+         }
+      },
+      {
+         "filename" : "Rock-Grey-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 1072
+         }
+      },
+      {
+         "filename" : "Rock-Grey-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 928
+         }
+      },
+      {
+         "filename" : "Rock-Grey-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1382,
+            "y" : 424
+         }
+      },
+      {
+         "filename" : "Rock-Grey-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 224,
+            "y" : 1429
+         }
+      },
+      {
+         "filename" : "Rock-Grey-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 1144
+         }
+      },
+      {
+         "filename" : "Rock-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1174,
+            "y" : 856
+         }
+      },
+      {
+         "filename" : "Rock-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 296,
+            "y" : 1429
+         }
+      },
+      {
+         "filename" : "Rock-Red-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 80,
+            "y" : 1461
+         }
+      },
+      {
+         "filename" : "Rock-Red-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1318,
+            "y" : 640
+         }
+      },
+      {
+         "filename" : "Rock-Red-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 1328
+         }
+      },
+      {
+         "filename" : "Rock-Red-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1382,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "Sand-Grey",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1246,
+            "y" : 784
+         }
+      },
+      {
+         "filename" : "Sand-Red",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 8,
+            "y" : 1473
+         }
+      },
+      {
+         "filename" : "Stairs-Green",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 368,
+            "y" : 1429
+         }
+      },
+      {
+         "filename" : "Stairs-Grey",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1476,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "Stairs-Red",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1476,
+            "y" : 80
+         }
+      },
+      {
+         "filename" : "Statue-Green",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1454,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "Statue-Grey",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 554,
+            "y" : 1376
+         }
+      },
+      {
+         "filename" : "Statue-Red",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1476,
+            "y" : 152
+         }
+      },
+      {
+         "filename" : "Stepladder",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 1072
+         }
+      },
+      {
+         "filename" : "Tree-Green",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 1000
+         }
+      },
+      {
+         "filename" : "Tree-Grey",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 1144
+         }
+      },
+      {
+         "filename" : "Tree-Red",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 1280
+         }
+      },
+      {
+         "filename" : "WallmasterLeft-Open",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 440,
+            "y" : 1429
+         }
+      },
+      {
+         "filename" : "WallmasterRight-Open",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1454,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "Water-Green-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1174,
+            "y" : 928
+         }
+      },
+      {
+         "filename" : "Water-Green-10",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 698,
+            "y" : 1324
+         }
+      },
+      {
+         "filename" : "Water-Green-11",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1318,
+            "y" : 712
+         }
+      },
+      {
+         "filename" : "Water-Green-12",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1390,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "Water-Green-13",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 1216
+         }
+      },
+      {
+         "filename" : "Water-Green-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 152,
+            "y" : 1501
+         }
+      },
+      {
+         "filename" : "Water-Green-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1246,
+            "y" : 856
+         }
+      },
+      {
+         "filename" : "Water-Green-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1454,
+            "y" : 424
+         }
+      },
+      {
+         "filename" : "Water-Green-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 224,
+            "y" : 1501
+         }
+      },
+      {
+         "filename" : "Water-Green-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 296,
+            "y" : 1501
+         }
+      },
+      {
+         "filename" : "Water-Green-7",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1390,
+            "y" : 640
+         }
+      },
+      {
+         "filename" : "Water-Green-8",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1318,
+            "y" : 784
+         }
+      },
+      {
+         "filename" : "Water-Green-9",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 1400
+         }
+      },
+      {
+         "filename" : "Water-Grey-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 80,
+            "y" : 1533
+         }
+      },
+      {
+         "filename" : "Water-Grey-10",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1454,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "Water-Grey-11",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 1072
+         }
+      },
+      {
+         "filename" : "Water-Grey-12",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 1144
+         }
+      },
+      {
+         "filename" : "Water-Grey-13",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1174,
+            "y" : 1000
+         }
+      },
+      {
+         "filename" : "Water-Grey-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 8,
+            "y" : 1545
+         }
+      },
+      {
+         "filename" : "Water-Grey-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 368,
+            "y" : 1501
+         }
+      },
+      {
+         "filename" : "Water-Grey-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1548,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "Water-Grey-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 958,
+            "y" : 1216
+         }
+      },
+      {
+         "filename" : "Water-Grey-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1548,
+            "y" : 80
+         }
+      },
+      {
+         "filename" : "Water-Grey-7",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 554,
+            "y" : 1448
+         }
+      },
+      {
+         "filename" : "Water-Grey-8",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1526,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "Water-Grey-9",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1246,
+            "y" : 928
+         }
+      },
+      {
+         "filename" : "Water-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1548,
+            "y" : 152
+         }
+      },
+      {
+         "filename" : "Water-Red-10",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 770,
+            "y" : 1352
+         }
+      },
+      {
+         "filename" : "Water-Red-11",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 698,
+            "y" : 1396
+         }
+      },
+      {
+         "filename" : "Water-Red-12",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1390,
+            "y" : 712
+         }
+      },
+      {
+         "filename" : "Water-Red-13",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 886,
+            "y" : 1288
+         }
+      },
+      {
+         "filename" : "Water-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 440,
+            "y" : 1501
+         }
+      },
+      {
+         "filename" : "Water-Red-3",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1526,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "Water-Red-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1462,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "Water-Red-5",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1318,
+            "y" : 856
+         }
+      },
+      {
+         "filename" : "Water-Red-6",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 152,
+            "y" : 1573
+         }
+      },
+      {
+         "filename" : "Water-Red-7",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1526,
+            "y" : 424
+         }
+      },
+      {
+         "filename" : "Water-Red-8",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 1144
+         }
+      },
+      {
+         "filename" : "Water-Red-9",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 224,
+            "y" : 1573
+         }
+      },
+      {
+         "filename" : "WaterFall-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1174,
+            "y" : 1072
+         }
+      },
+      {
+         "filename" : "WaterFall-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1030,
+            "y" : 1216
+         }
+      },
+      {
+         "filename" : "WizzrobeUp-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1390,
+            "y" : 784
+         }
+      },
+      {
+         "filename" : "WizzrobeUp-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1462,
+            "y" : 640
+         }
+      },
+      {
+         "filename" : "Zora-Back",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 1246,
+            "y" : 1000
+         }
+      },
+      {
+         "filename" : "Zora-Front",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 626,
+            "y" : 1472
+         }
+      },
+      {
+         "filename" : "Zora",
+         "frame" : {
+            "h" : 64,
+            "w" : 64,
+            "x" : 296,
+            "y" : 1573
+         }
+      },
+      {
+         "filename" : "MoblinLeft-Orange-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1526,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "LynelLeft-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 958,
+            "y" : 1288
+         }
+      },
+      {
+         "filename" : "LynelLeft-Orange-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 80,
+            "y" : 1605
+         }
+      },
+      {
+         "filename" : "MoblinRight-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1318,
+            "y" : 928
+         }
+      },
+      {
+         "filename" : "Tektite-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 368,
+            "y" : 1573
+         }
+      },
+      {
+         "filename" : "Tektite-Orange-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 8,
+            "y" : 1617
+         }
+      },
+      {
+         "filename" : "LynelLeft-Orange-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 554,
+            "y" : 1520
+         }
+      },
+      {
+         "filename" : "MoblinRight-Orange-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 770,
+            "y" : 1424
+         }
+      },
+      {
+         "filename" : "LynelRight-Blue-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1620,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "LynelRight-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1620,
+            "y" : 76
+         }
+      },
+      {
+         "filename" : "LynelRight-Orange-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1598,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "PolsVoice-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 886,
+            "y" : 1360
+         }
+      },
+      {
+         "filename" : "LynelRight-Orange-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 698,
+            "y" : 1468
+         }
+      },
+      {
+         "filename" : "DarknutRight-Orange-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1462,
+            "y" : 712
+         }
+      },
+      {
+         "filename" : "DarknutLeft-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1620,
+            "y" : 144
+         }
+      },
+      {
+         "filename" : "WizzrobeUp-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1390,
+            "y" : 856
+         }
+      },
+      {
+         "filename" : "DarknutRight-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 440,
+            "y" : 1573
+         }
+      },
+      {
+         "filename" : "WizzrobeUp-Orange-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1620,
+            "y" : 212
+         }
+      },
+      {
+         "filename" : "DarknutLeft-Orange-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1598,
+            "y" : 348
+         }
+      },
+      {
+         "filename" : "MoblinLeft-Blue-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1534,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "LynelLeft-Blue-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 64,
+            "x" : 1174,
+            "y" : 1144
+         }
+      },
+      {
+         "filename" : "LikeLike-2",
+         "frame" : {
+            "h" : 52,
+            "w" : 64,
+            "x" : 1102,
+            "y" : 1216
+         }
+      },
+      {
+         "filename" : "Tektite-Blue-1",
+         "frame" : {
+            "h" : 48,
+            "w" : 64,
+            "x" : 1044,
+            "y" : 224
+         }
+      },
+      {
+         "filename" : "Tektite-Orange-1",
+         "frame" : {
+            "h" : 48,
+            "w" : 64,
+            "x" : 1116,
+            "y" : 224
+         }
+      },
+      {
+         "filename" : "Patra-2",
+         "frame" : {
+            "h" : 44,
+            "w" : 64,
+            "x" : 1188,
+            "y" : 224
+         }
+      },
+      {
+         "filename" : "Leever-Red-3",
+         "frame" : {
+            "h" : 44,
+            "w" : 64,
+            "x" : 1260,
+            "y" : 224
+         }
+      },
+      {
+         "filename" : "Leever-Blue-3",
+         "frame" : {
+            "h" : 44,
+            "w" : 64,
+            "x" : 1332,
+            "y" : 224
+         }
+      },
+      {
+         "filename" : "Patra-1",
+         "frame" : {
+            "h" : 44,
+            "w" : 64,
+            "x" : 1404,
+            "y" : 224
+         }
+      },
+      {
+         "filename" : "LikeLike-1",
+         "frame" : {
+            "h" : 40,
+            "w" : 64,
+            "x" : 878,
+            "y" : 520
+         }
+      },
+      {
+         "filename" : "Keese-Red-1",
+         "frame" : {
+            "h" : 32,
+            "w" : 64,
+            "x" : 972,
+            "y" : 240
+         }
+      },
+      {
+         "filename" : "Keese-Blue-1",
+         "frame" : {
+            "h" : 32,
+            "w" : 64,
+            "x" : 1476,
+            "y" : 224
+         }
+      },
+      {
+         "filename" : "Arrow-Steel",
+         "frame" : {
+            "h" : 20,
+            "w" : 64,
+            "x" : 950,
+            "y" : 540
+         }
+      },
+      {
+         "filename" : "Arrow-Wood",
+         "frame" : {
+            "h" : 20,
+            "w" : 64,
+            "x" : 1548,
+            "y" : 224
+         }
+      },
+      {
+         "filename" : "LinkAttack-Up",
+         "frame" : {
+            "h" : 104,
+            "w" : 60,
+            "x" : 1246,
+            "y" : 1072
+         }
+      },
+      {
+         "filename" : "LinkDown-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1030,
+            "y" : 1288
+         }
+      },
+      {
+         "filename" : "LinkLeft-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1598,
+            "y" : 416
+         }
+      },
+      {
+         "filename" : "LinkLeft-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 152,
+            "y" : 1645
+         }
+      },
+      {
+         "filename" : "Boulder-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1318,
+            "y" : 996
+         }
+      },
+      {
+         "filename" : "DarknutDown-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1462,
+            "y" : 780
+         }
+      },
+      {
+         "filename" : "LinkRight-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 220,
+            "y" : 1645
+         }
+      },
+      {
+         "filename" : "LinkRight-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 958,
+            "y" : 1356
+         }
+      },
+      {
+         "filename" : "DarknutDown-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1534,
+            "y" : 636
+         }
+      },
+      {
+         "filename" : "DarknutUp-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 626,
+            "y" : 1544
+         }
+      },
+      {
+         "filename" : "LinkUp-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1390,
+            "y" : 924
+         }
+      },
+      {
+         "filename" : "LinkUp-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 288,
+            "y" : 1645
+         }
+      },
+      {
+         "filename" : "LynelDown-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1598,
+            "y" : 488
+         }
+      },
+      {
+         "filename" : "Stalfos-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 80,
+            "y" : 1673
+         }
+      },
+      {
+         "filename" : "Stalfos-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 770,
+            "y" : 1492
+         }
+      },
+      {
+         "filename" : "LynelDown-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 886,
+            "y" : 1428
+         }
+      },
+      {
+         "filename" : "LynelDown-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 368,
+            "y" : 1641
+         }
+      },
+      {
+         "filename" : "LynelDown-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 554,
+            "y" : 1588
+         }
+      },
+      {
+         "filename" : "DarknutUp-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 8,
+            "y" : 1685
+         }
+      },
+      {
+         "filename" : "DarknutUp-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1102,
+            "y" : 1276
+         }
+      },
+      {
+         "filename" : "DarknutUp-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 698,
+            "y" : 1536
+         }
+      },
+      {
+         "filename" : "DarknutDown-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1174,
+            "y" : 1212
+         }
+      },
+      {
+         "filename" : "DarknutDown-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1534,
+            "y" : 708
+         }
+      },
+      {
+         "filename" : "LinkDown-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1692,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "LinkDown-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1462,
+            "y" : 852
+         }
+      },
+      {
+         "filename" : "LinkDown-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 60,
+            "x" : 1670,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "WizzrobeRight-Orange-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 60,
+            "x" : 1692,
+            "y" : 80
+         }
+      },
+      {
+         "filename" : "LinkRight-Blue-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 60,
+            "x" : 1314,
+            "y" : 1072
+         }
+      },
+      {
+         "filename" : "LinkLeft-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 60,
+            "x" : 436,
+            "y" : 1641
+         }
+      },
+      {
+         "filename" : "LinkRight-Red-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 60,
+            "x" : 1692,
+            "y" : 148
+         }
+      },
+      {
+         "filename" : "LinkLeft-Red-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 60,
+            "x" : 1606,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "WizzrobeLeft-Blue-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 60,
+            "x" : 1030,
+            "y" : 1360
+         }
+      },
+      {
+         "filename" : "WizzrobeLeft-Orange-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 60,
+            "x" : 1670,
+            "y" : 352
+         }
+      },
+      {
+         "filename" : "WizzrobeRight-Blue-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 60,
+            "x" : 1386,
+            "y" : 996
+         }
+      },
+      {
+         "filename" : "RopeLeft-2",
+         "frame" : {
+            "h" : 56,
+            "w" : 60,
+            "x" : 1692,
+            "y" : 216
+         }
+      },
+      {
+         "filename" : "RopeRight-1",
+         "frame" : {
+            "h" : 56,
+            "w" : 60,
+            "x" : 954,
+            "y" : 1428
+         }
+      },
+      {
+         "filename" : "MoblinUp-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1530,
+            "y" : 780
+         }
+      },
+      {
+         "filename" : "MoblinUp-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1246,
+            "y" : 1184
+         }
+      },
+      {
+         "filename" : "Boulder-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1670,
+            "y" : 420
+         }
+      },
+      {
+         "filename" : "LinkPickup-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1602,
+            "y" : 636
+         }
+      },
+      {
+         "filename" : "LinkPickup-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 152,
+            "y" : 1717
+         }
+      },
+      {
+         "filename" : "LinkPickup-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1458,
+            "y" : 924
+         }
+      },
+      {
+         "filename" : "LinkDown-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 216,
+            "y" : 1717
+         }
+      },
+      {
+         "filename" : "WizzrobeLeft-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 626,
+            "y" : 1616
+         }
+      },
+      {
+         "filename" : "Leever-Blue-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1314,
+            "y" : 1140
+         }
+      },
+      {
+         "filename" : "WizzrobeLeft-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 280,
+            "y" : 1717
+         }
+      },
+      {
+         "filename" : "LinkDown-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1174,
+            "y" : 1284
+         }
+      },
+      {
+         "filename" : "WizzrobeRight-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1670,
+            "y" : 492
+         }
+      },
+      {
+         "filename" : "Raft",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1102,
+            "y" : 1348
+         }
+      },
+      {
+         "filename" : "WizzrobeRight-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 886,
+            "y" : 1500
+         }
+      },
+      {
+         "filename" : "Leever-Red-4",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 770,
+            "y" : 1564
+         }
+      },
+      {
+         "filename" : "LynelUp-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 80,
+            "y" : 1745
+         }
+      },
+      {
+         "filename" : "LynelUp-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1386,
+            "y" : 1064
+         }
+      },
+      {
+         "filename" : "LynelUp-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 554,
+            "y" : 1660
+         }
+      },
+      {
+         "filename" : "LynelUp-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 344,
+            "y" : 1717
+         }
+      },
+      {
+         "filename" : "MoblinUp-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1530,
+            "y" : 852
+         }
+      },
+      {
+         "filename" : "MoblinUp-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 56,
+            "x" : 1602,
+            "y" : 708
+         }
+      },
+      {
+         "filename" : "Peahat-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 56,
+            "x" : 698,
+            "y" : 1608
+         }
+      },
+      {
+         "filename" : "GoriyaRight-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 56,
+            "x" : 1022,
+            "y" : 1428
+         }
+      },
+      {
+         "filename" : "RopeLeft-1",
+         "frame" : {
+            "h" : 60,
+            "w" : 56,
+            "x" : 8,
+            "y" : 1757
+         }
+      },
+      {
+         "filename" : "WallmasterLeft-Closed",
+         "frame" : {
+            "h" : 60,
+            "w" : 56,
+            "x" : 1760,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "GoriyaRight-Orange-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 56,
+            "x" : 1738,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "WallmasterRight-Closed",
+         "frame" : {
+            "h" : 60,
+            "w" : 56,
+            "x" : 1760,
+            "y" : 76
+         }
+      },
+      {
+         "filename" : "GoriyaLeft-Blue-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 56,
+            "x" : 1454,
+            "y" : 996
+         }
+      },
+      {
+         "filename" : "RopeRight-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 56,
+            "x" : 436,
+            "y" : 1709
+         }
+      },
+      {
+         "filename" : "GoriyaLeft-Orange-2",
+         "frame" : {
+            "h" : 60,
+            "w" : 56,
+            "x" : 1760,
+            "y" : 144
+         }
+      },
+      {
+         "filename" : "Zol-1",
+         "frame" : {
+            "h" : 56,
+            "w" : 56,
+            "x" : 1674,
+            "y" : 568
+         }
+      },
+      {
+         "filename" : "GoriyaUp-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1246,
+            "y" : 1256
+         }
+      },
+      {
+         "filename" : "GoriyaUp-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 954,
+            "y" : 1492
+         }
+      },
+      {
+         "filename" : "GoriyaLeft-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1738,
+            "y" : 348
+         }
+      },
+      {
+         "filename" : "GoriyaDown-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1594,
+            "y" : 780
+         }
+      },
+      {
+         "filename" : "GoriyaLeft-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1522,
+            "y" : 924
+         }
+      },
+      {
+         "filename" : "GoriyaDown-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1666,
+            "y" : 636
+         }
+      },
+      {
+         "filename" : "GoriyaRight-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1734,
+            "y" : 420
+         }
+      },
+      {
+         "filename" : "GoriyaDown-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1314,
+            "y" : 1212
+         }
+      },
+      {
+         "filename" : "LinkPickup-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1378,
+            "y" : 1140
+         }
+      },
+      {
+         "filename" : "GoriyaRight-Orange-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1174,
+            "y" : 1356
+         }
+      },
+      {
+         "filename" : "LinkPickup-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1086,
+            "y" : 1428
+         }
+      },
+      {
+         "filename" : "GoriyaDown-Orange-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 152,
+            "y" : 1789
+         }
+      },
+      {
+         "filename" : "LinkPickup-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 1450,
+            "y" : 1064
+         }
+      },
+      {
+         "filename" : "GoriyaUp-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 626,
+            "y" : 1688
+         }
+      },
+      {
+         "filename" : "GoriyaUp-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 52,
+            "x" : 212,
+            "y" : 1789
+         }
+      },
+      {
+         "filename" : "LinkUp-Red-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 48,
+            "x" : 224,
+            "y" : 861
+         }
+      },
+      {
+         "filename" : "Zol-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 48,
+            "x" : 1734,
+            "y" : 492
+         }
+      },
+      {
+         "filename" : "LinkUp-Red-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 48,
+            "x" : 886,
+            "y" : 1572
+         }
+      },
+      {
+         "filename" : "LinkUp-Blue-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 48,
+            "x" : 1594,
+            "y" : 852
+         }
+      },
+      {
+         "filename" : "LinkUp-Blue-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 48,
+            "x" : 770,
+            "y" : 1636
+         }
+      },
+      {
+         "filename" : "HeartPiece",
+         "frame" : {
+            "h" : 48,
+            "w" : 48,
+            "x" : 224,
+            "y" : 933
+         }
+      },
+      {
+         "filename" : "Leever-Blue-2",
+         "frame" : {
+            "h" : 16,
+            "w" : 48,
+            "x" : 1548,
+            "y" : 252
+         }
+      },
+      {
+         "filename" : "Leever-Red-2",
+         "frame" : {
+            "h" : 16,
+            "w" : 48,
+            "x" : 1760,
+            "y" : 212
+         }
+      },
+      {
+         "filename" : "Compass",
+         "frame" : {
+            "h" : 48,
+            "w" : 44,
+            "x" : 834,
+            "y" : 1564
+         }
+      },
+      {
+         "filename" : "TriforcePiece-1",
+         "frame" : {
+            "h" : 40,
+            "w" : 40,
+            "x" : 838,
+            "y" : 1492
+         }
+      },
+      {
+         "filename" : "TriforcePiece-2",
+         "frame" : {
+            "h" : 40,
+            "w" : 40,
+            "x" : 504,
+            "y" : 1641
+         }
+      },
+      {
+         "filename" : "Keese-Blue-2",
+         "frame" : {
+            "h" : 40,
+            "w" : 40,
+            "x" : 504,
+            "y" : 1689
+         }
+      },
+      {
+         "filename" : "Keese-Red-2",
+         "frame" : {
+            "h" : 40,
+            "w" : 40,
+            "x" : 504,
+            "y" : 1737
+         }
+      },
+      {
+         "filename" : "Leever-Red-1",
+         "frame" : {
+            "h" : 20,
+            "w" : 40,
+            "x" : 1760,
+            "y" : 236
+         }
+      },
+      {
+         "filename" : "Leever-Blue-1",
+         "frame" : {
+            "h" : 20,
+            "w" : 40,
+            "x" : 272,
+            "y" : 1789
+         }
+      },
+      {
+         "filename" : "Rupee-Blue",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 842,
+            "y" : 704
+         }
+      },
+      {
+         "filename" : "Rupee-Green",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 512,
+            "y" : 997
+         }
+      },
+      {
+         "filename" : "Potion-Red",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 842,
+            "y" : 776
+         }
+      },
+      {
+         "filename" : "Key",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 512,
+            "y" : 1069
+         }
+      },
+      {
+         "filename" : "Fairy-1",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 842,
+            "y" : 848
+         }
+      },
+      {
+         "filename" : "Fairy-2",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 842,
+            "y" : 920
+         }
+      },
+      {
+         "filename" : "Candle-Blue",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 512,
+            "y" : 1141
+         }
+      },
+      {
+         "filename" : "Candle-Red",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 842,
+            "y" : 992
+         }
+      },
+      {
+         "filename" : "Food",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 512,
+            "y" : 1213
+         }
+      },
+      {
+         "filename" : "Letter",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 842,
+            "y" : 1064
+         }
+      },
+      {
+         "filename" : "BookOfMagic",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 512,
+            "y" : 1285
+         }
+      },
+      {
+         "filename" : "Key-Magical",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 842,
+            "y" : 1136
+         }
+      },
+      {
+         "filename" : "Map",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 512,
+            "y" : 1357
+         }
+      },
+      {
+         "filename" : "Potion-Blue",
+         "frame" : {
+            "h" : 64,
+            "w" : 32,
+            "x" : 842,
+            "y" : 1208
+         }
+      },
+      {
+         "filename" : "PowerBracelet",
+         "frame" : {
+            "h" : 56,
+            "w" : 32,
+            "x" : 512,
+            "y" : 1429
+         }
+      },
+      {
+         "filename" : "Bomb",
+         "frame" : {
+            "h" : 56,
+            "w" : 32,
+            "x" : 842,
+            "y" : 1280
+         }
+      },
+      {
+         "filename" : "HUD-Shield",
+         "frame" : {
+            "h" : 48,
+            "w" : 32,
+            "x" : 512,
+            "y" : 1493
+         }
+      },
+      {
+         "filename" : "Shield-Wooden",
+         "frame" : {
+            "h" : 48,
+            "w" : 32,
+            "x" : 842,
+            "y" : 1344
+         }
+      },
+      {
+         "filename" : "Zora-Projectile",
+         "frame" : {
+            "h" : 40,
+            "w" : 32,
+            "x" : 512,
+            "y" : 1549
+         }
+      },
+      {
+         "filename" : "OctorokProjectile",
+         "frame" : {
+            "h" : 40,
+            "w" : 32,
+            "x" : 842,
+            "y" : 1400
+         }
+      },
+      {
+         "filename" : "HUD-Rupees",
+         "frame" : {
+            "h" : 32,
+            "w" : 32,
+            "x" : 842,
+            "y" : 1448
+         }
+      },
+      {
+         "filename" : "Gel-1",
+         "frame" : {
+            "h" : 32,
+            "w" : 32,
+            "x" : 512,
+            "y" : 1597
+         }
+      },
+      {
+         "filename" : "Patra-3",
+         "frame" : {
+            "h" : 32,
+            "w" : 32,
+            "x" : 1666,
+            "y" : 708
+         }
+      },
+      {
+         "filename" : "Patra-4",
+         "frame" : {
+            "h" : 32,
+            "w" : 32,
+            "x" : 1022,
+            "y" : 1496
+         }
+      },
+      {
+         "filename" : "HUD-Bombs",
+         "frame" : {
+            "h" : 32,
+            "w" : 32,
+            "x" : 698,
+            "y" : 1676
+         }
+      },
+      {
+         "filename" : "HUD-Keys",
+         "frame" : {
+            "h" : 32,
+            "w" : 32,
+            "x" : 1518,
+            "y" : 996
+         }
+      },
+      {
+         "filename" : "HUD-Sword-Metal",
+         "frame" : {
+            "h" : 64,
+            "w" : 28,
+            "x" : 320,
+            "y" : 1789
+         }
+      },
+      {
+         "filename" : "HUD-Sword-Wooden",
+         "frame" : {
+            "h" : 64,
+            "w" : 28,
+            "x" : 554,
+            "y" : 1732
+         }
+      },
+      {
+         "filename" : "HUD-Sword-Magical",
+         "frame" : {
+            "h" : 64,
+            "w" : 28,
+            "x" : 80,
+            "y" : 1817
+         }
+      },
+      {
+         "filename" : "Sword-Magical",
+         "frame" : {
+            "h" : 64,
+            "w" : 28,
+            "x" : 116,
+            "y" : 1817
+         }
+      },
+      {
+         "filename" : "Sword-Metal",
+         "frame" : {
+            "h" : 64,
+            "w" : 28,
+            "x" : 1246,
+            "y" : 1328
+         }
+      },
+      {
+         "filename" : "Sword-Wood",
+         "frame" : {
+            "h" : 64,
+            "w" : 28,
+            "x" : 834,
+            "y" : 1620
+         }
+      },
+      {
+         "filename" : "Ring-Red",
+         "frame" : {
+            "h" : 36,
+            "w" : 28,
+            "x" : 1808,
+            "y" : 236
+         }
+      },
+      {
+         "filename" : "Ring-Blue",
+         "frame" : {
+            "h" : 36,
+            "w" : 28,
+            "x" : 1802,
+            "y" : 280
+         }
+      },
+      {
+         "filename" : "Heart-2",
+         "frame" : {
+            "h" : 32,
+            "w" : 28,
+            "x" : 1824,
+            "y" : 8
+         }
+      },
+      {
+         "filename" : "HUD-Heart-Empty",
+         "frame" : {
+            "h" : 32,
+            "w" : 28,
+            "x" : 356,
+            "y" : 1789
+         }
+      },
+      {
+         "filename" : "HUD-Heart-Full",
+         "frame" : {
+            "h" : 32,
+            "w" : 28,
+            "x" : 1824,
+            "y" : 48
+         }
+      },
+      {
+         "filename" : "HUD-Heart-Half",
+         "frame" : {
+            "h" : 32,
+            "w" : 28,
+            "x" : 8,
+            "y" : 1825
+         }
+      },
+      {
+         "filename" : "Heart-1",
+         "frame" : {
+            "h" : 32,
+            "w" : 28,
+            "x" : 44,
+            "y" : 1825
+         }
+      },
+      {
+         "filename" : "Gel-2",
+         "frame" : {
+            "h" : 36,
+            "w" : 24,
+            "x" : 774,
+            "y" : 496
+         }
+      },
+      {
+         "filename" : "Boomerang-Magical",
+         "frame" : {
+            "h" : 32,
+            "w" : 20,
+            "x" : 408,
+            "y" : 1717
+         }
+      },
+      {
+         "filename" : "Boomerang",
+         "frame" : {
+            "h" : 32,
+            "w" : 20,
+            "x" : 408,
+            "y" : 1757
+         }
+      },
+      {
+         "filename" : "MagicWand",
+         "frame" : {
+            "h" : 64,
+            "w" : 16,
+            "x" : 1824,
+            "y" : 88
+         }
+      },
+      {
+         "filename" : "Recorder",
+         "frame" : {
+            "h" : 64,
+            "w" : 12,
+            "x" : 260,
+            "y" : 721
+         }
+      },
+      {
+         "filename" : "Bow",
+         "frame" : {
+            "h" : 16,
+            "w" : 8,
+            "x" : 124,
+            "y" : 793
+         }
+      }
+   ]
+}
